@@ -1,0 +1,3 @@
+#rdgen#
+
+*Rind module generator*
